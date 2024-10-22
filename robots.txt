@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eselwager.github.io/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/app/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/assets/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/css/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/includes/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/item/eselwager.txt.gz
+Sitemap: https://eselwager.github.io/src/eselwager.txt.gz
